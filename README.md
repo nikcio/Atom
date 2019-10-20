@@ -1,11 +1,10 @@
 # Atom
 
 ---
-*By: Nikolaj Brask-Nielsen*
-*Alias: Nikcio*
-
-*Project: Atom*
-*Project date: End of 2016*
+* *By: Nikolaj Brask-Nielsen*
+* *Alias: Nikcio*
+* *Project: Atom*
+* *Project date: End of 2016*
 
 ***
 
