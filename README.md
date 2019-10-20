@@ -10,6 +10,7 @@
 ***
 
 ## Table of contents:
+
 **1. Description**
 **2. Functionality**
 **3. Quick translation guide**
@@ -50,6 +51,7 @@ Isotop | Isotope
 
 ## Deacy types:
 I use some short notation to describe the decay type so I've made a table to decode the notation:
+
 Short notaion: | Defination
 ---------------|-----------
 A | Alpha decay
