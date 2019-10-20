@@ -11,13 +11,13 @@
 
 ## Table of contents:
 
-**1. Description**
-**2. Functionality**
-**3. Quick translation guide**
-**4. Deacy types**
-**5. Goal**
-**6. Sources**
-**7. Other**
+1. Description
+2. Functionality
+3. Quick translation guide
+4. Deacy types
+5. Goal
+6. Sources
+7. Other
 
 >**DISCLAIMER: The writing in this file may contain spelling errors and/or grammatical errors.**
 
